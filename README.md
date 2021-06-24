@@ -10,7 +10,7 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 
 <h2> Sosial Media</h2>
 <!-- wkwk -->
-
+<!-- WEE TUKANG REUPLOAD MANA NICH-->
 
 •[Website](https://desty.page/prayogabrd)
 🆆+
