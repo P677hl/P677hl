@@ -13,6 +13,7 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 
 
 •[Website](https://desty.page/prayogabrd)
+🆆+
 
 •[Instagram](https://instagram.com/prayoga_brd/)
 <a href="https://www.instagram.com/prayoga_brd/" target="pink"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sanz" height="30" width="40" /></a>
