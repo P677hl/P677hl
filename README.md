@@ -6,6 +6,8 @@
 Wih ada bang jago nih, takut ada bang jago mau reupload
 
 
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=P677hl&show_icons=true&locale=en&layout=compact&theme=radical" alt="Prayogabrd" /></p>
+
 <!-- mak gua mau ngereupload mak -->
 
 <h2> Sosial Media</h2>
