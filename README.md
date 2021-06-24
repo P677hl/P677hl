@@ -1,4 +1,4 @@
-# HALO BROH SELAMAT DATANG DI PROFIL GITHUB GW
+# SELAMAT DATANG BROH
 
 
 Wih ada bang jago nih, takut ada bang jago mau reupload
