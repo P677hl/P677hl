@@ -19,11 +19,11 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 
 •<a href="https://www.instagram.com/prayoga_brd/" target="pink"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Prayogabrd" height="30" width="40" /></a>:
 [@prayoga_brd](https://instagram.com/prayoga_brd/)
-<a href="https://github.com/P677hl" target="pink"><img align="center" src="https://avatars.githubusercontent.com/u/72582850?v=4" alt="Prayogabrd" height="300" width="300" /></a>
 
 •<a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg" target="red"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Prayogabrd" height="30" width="40" /></a>:
 [PrayogaBRD](https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg)
 
+<a href="https://github.com/P677hl" target="pink"><img align="center" src="https://avatars.githubusercontent.com/u/72582850?v=4" alt="Prayogabrd" height="300" width="300" /></a>
 
 Thanks broh
 
