@@ -16,10 +16,10 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 🆆+
 
 •[Instagram](https://instagram.com/prayoga_brd/)
-<a href="https://www.instagram.com/prayoga_brd/" target="pink"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sanz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prayoga_brd/" target="pink"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Prayogabrd" height="30" width="40" /></a>
 
 •[Youtube](https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg)
-<a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg" target="red"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Sanz" height="30" width="40" /></a>
+<a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg" target="red"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Prayogabrd" height="30" width="40" /></a>
 
 Thanks broh
 
