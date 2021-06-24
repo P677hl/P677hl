@@ -23,4 +23,4 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 
 Thanks broh
 
-<h2> Yang Mau Cari Repositories Dibawah Ya</h2>
+<h2> Yang Mau Cari Repositories </h2> [Klik disini](https://github.com/P677hl?tab=repositories)
