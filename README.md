@@ -14,7 +14,8 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 <!-- wkwk -->
 <!-- WEE TUKANG REUPLOAD MANA NICH-->
 
-<a href="https://github.com/P677hl" target="pink"><img align="center" src="https://avatars.githubusercontent.com/u/72582850?v=4" alt="Prayogabrd" height="200" width="200" /></a>
+<h1> Instagram gw & temen" gw </h1>
+<a href="https://github.com/P677hl" target="pink"><img align="center" src="https://avatars.githubusercontent.com/u/72582850?v=4" alt="Prayogabrd" height="100" width="100" /></a>
 
 
 • <a href="https://desty.page/prayogabrd" target="blue"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWWXXKkYuzIAdnWh6ctTaBXhg0_76ML7ciO76-h0OEImcRZYH20V-2XOo&s=10" alt="Prayogabrd" height="30" width="30" /></a> :
