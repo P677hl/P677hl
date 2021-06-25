@@ -16,7 +16,7 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 
 • Instagram gw & temen" gw
 
-<a href="https://instagram.com/prayoga_brd/" target="black"><img align="center" src="https://avatars.githubusercontent.com/u/72582850?v=4" alt="Prayogabrd" height="100" width="100" /></a>   
+<a href="https://instagram.com/prayoga_brd/" target="black"><img align="center" src="https://avatars.githubusercontent.com/u/72582850?v=4" alt="Prayogabrd" height="100" width="100" /></a>
 <a href="https://instagram.com/ramadan_0101" target="black"><img align="center" src="https://scontent-arn2-2.cdninstagram.com/v/t51.2885-19/s150x150/202279612_3969558253161986_8860390061476657544_n.jpg?tp=1&_nc_ht=scontent-arn2-2.cdninstagram.com&_nc_ohc=wuvuLIY0SrIAX9BLD0T&edm=AKralEIBAAAA&ccb=7-4&oh=b02791f537260c91bf69a11b13cc109c&oe=60DCBCA8&_nc_sid=5e3072" alt="ramadan_0101" height="100" width="100" /></a>
 
 • Sosial Media Aing sendiri
