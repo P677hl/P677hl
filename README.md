@@ -6,6 +6,7 @@
 Wih ada bang jago nih, takut ada bang jago mau reupload
 
 
+![Sanish's github stats](https://github-readme-stats.vercel.app/api?username=P677hl&show_icons=true&hide=contribs,prs)
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=P677Hl&show_icons=true&locale=en&layout=compact&theme=radical" alt="prayogabrd" /></p>
 
 <!-- mak gua mau ngereupload mak -->
