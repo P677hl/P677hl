@@ -14,7 +14,8 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 <!-- wkwk -->
 <!-- WEE TUKANG REUPLOAD MANA NICH-->
 
-<h1> Instagram gw & temen" gw </h1>
+•Instagram gw & temen" gw
+
 <a href="https://github.com/P677hl" target="pink"><img align="center" src="https://avatars.githubusercontent.com/u/72582850?v=4" alt="Prayogabrd" height="100" width="100" /></a>
 
 
