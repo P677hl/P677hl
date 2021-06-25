@@ -7,7 +7,7 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 
 
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=P677hl&show_icons=true&hide=contribs,prs" alt="prayogabrd" /></p>
-<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=P677Hl&show_icons=true&locale=en&layout=compact&theme=radical" alt="prayogabrd" /></p>
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=P677hl&layout=compact" alt="prayogabrd" /></p>
 
 <!-- mak gua mau ngereupload mak -->
 
