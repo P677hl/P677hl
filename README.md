@@ -33,7 +33,7 @@ Wih ada bang jago nih, takut ada bang jago mau reupload
 ·<a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg" target="red"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Prayogabrd" height="30" width="40" /></a>:
 [PrayogaBRD](https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg)
 
-· <a href="https://github.com/P677hl" target="black"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCrp_KCMneZX0Vss31eJ6EW1MsJy4n7a_6PDaOrFlU8qs-ycU&s" alt="P677hl" height="30" width="30" /></a>
+· <a href="https://github.com/P677hl" target="black"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCrp_KCMneZX0Vss31eJ6EW1MsJy4n7a_6PDaOrFlU8qs-ycU&s" alt="P677hl" height="40" width="40" /></a>
 :
 [P677hl](https://github.com/P677hl)
 
