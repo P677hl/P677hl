@@ -3,7 +3,7 @@
 # SELAMAT DATANG BROH <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 
 
-I from INDONESIA <img src="https://thumbs.gfycat.com/PerfectVictoriousHairstreakbutterfly-max-1mb.gif" width="40px">
+I from INDONESIA <img src="https://thumbs.gfycat.com/PerfectVictoriousHairstreakbutterfly-max-1mb.gif" width="50px">
 
 Wih ada bang jago nih, takut ada bang jago mau reupload
 
