@@ -3,7 +3,7 @@
 # SELAMAT DATANG BROH <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 
 
-I from <h2> INDONESIA</h2>
+I from INDONESIA
 
 Wih ada bang jago nih, takut ada bang jago mau reupload
 
