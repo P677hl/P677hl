@@ -1,6 +1,6 @@
 *Ⓥ Verification Github
 
-# SELAMAT DATANG BROH
+# SELAMAT DATANG BROH <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 
 
 Wih ada bang jago nih, takut ada bang jago mau reupload
