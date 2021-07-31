@@ -2,21 +2,28 @@
 
 # SELAMAT DATANG BROH <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 
-<b>I from INDONESIA <img src="https://thumbs.gfycat.com/PerfectVictoriousHairstreakbutterfly-max-1mb.gif" width="50px"><br>
-<!-- Mau Reupload bang gk bakal bisa lu wkwkwk -->
-<p><img align="center" width=90% src="https://camo.githubusercontent.com/771020a641b04b0f7f3d8c01fbc1fabb849a15fba6d24e9775c02fa57b1f56bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d50363737686c2673686f775f69636f6e733d7472756526686964653d636f6e74726962732c707273" alt="prayogabrd" /> <img align="center" width=90% src="https://camo.githubusercontent.com/1ae9c8fb6086d0e4d4838d9c552f01431b07944ccad9c47c450b5a6add7fabd2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50363737686c266c61796f75743d636f6d70616374" alt="prayogabrd" /></p><br>
-<!-- mak gua mau ngereupload mak -->
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/72582850?v=4" width="50%">
+</p>
+<br>
+<p align="center">
+<img src="https://camo.githubusercontent.com/771020a641b04b0f7f3d8c01fbc1fabb849a15fba6d24e9775c02fa57b1f56bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d50363737686c2673686f775f69636f6e733d7472756526686964653d636f6e74726962732c707273" widht="90%"/>
+</p>
+<p align="center">
+<img src="https://camo.githubusercontent.com/1ae9c8fb6086d0e4d4838d9c552f01431b07944ccad9c47c450b5a6add7fabd2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50363737686c266c61796f75743d636f6d70616374" widht="90%" />
+</p>
+<!-- Sosial Media page -->
 <h2> Sosial Media</h2>
 
-<!-- wkwk -->
-<!-- WEE TUKANG REUPLOAD MANA NICH-->
-<b>• Support us<br>
-<a href="https://instagram.com/prayoga_brd/" target="black"><img align="center" src="https://avatars.githubusercontent.com/u/72582850?v=4" alt="prayoga_brd" height="100" width="100" /></a>
-<a href="https://instagram.com/ramadan_0101" target="black"><img align="center" src="https://i.ibb.co/6tsr9Mj/Ramadan-0101.jpg" alt="ramadan_0101" height="100" width="100" /></a>
-<a href="https://instagram.com/hampir_tolol/" target="black"><img align="center" src="https://i.ibb.co/B3kf4Pf/Hampir-tolol.jpg" alt="hampir_tolol" height="100" width="100" /></a><br>
-<b>• My own social media<br>
-<b>·<t> <a href="https://desty.page/prayogabrd" target="blue"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWWXXKkYuzIAdnWh6ctTaBXhg0_76ML7ciO76-h0OEImcRZYH20V-2XOo&s=10" alt="Prayogabrd" height="30" width="30" /></a> : [prayogabrd.com](https://desty.page/prayogabrd)<br>
-<b>·<t> <a href="https://www.instagram.com/prayoga_brd/" target="pink"><img align="center" src="https://i.ibb.co/qsjrrm4/icon-instagram.jpg" alt="Prayogabrd" height="30" width="30" /></a> : [@prayoga_brd](https://instagram.com/prayoga_brd/)<br>
-<b>·<t> <a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg" target="red"><img align="center" src="https://i.ibb.co/MnYtbyd/icon-youtube.jpg" alt="Prayogabrd" height="30" width="30" /></a> : [PrayogaBRD](https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg)<br>
-<b>·<t> <a href="https://github.com/P677hl" target="black"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCrp_KCMneZX0Vss31eJ6EW1MsJy4n7a_6PDaOrFlU8qs-ycU&s" alt="P677hl" height="30" width="30" /></a> : [P677hl.io/github](https://github.com/P677hl)<br>
-<b>Thanks broh<br>
+<p align="center">
+<b>Support us</b>
+</p>
+<br>
+<p align="center">
+<a href="https://desty.page/prayogabrd"><img alt="Desty" src="https://img.shields.io/badge/desty.page/-prayogabrd-white?style=social&logo=desty"/></a> <a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg"><img alt="Github" src="https://img.shields.io/badge/PrayogaBRD-RED?style=social&logo=youtube"/></a> <a href="https://github.com/P677hl"><img alt="Github" src="https://img.shields.io/badge/P677hl-INACTIVE?style=social&logo=github"/></a> <a href="https://instagram.com/prayoga_brd"><img alt="Instagram" src="https://img.shields.io/badge/%40prayoga%5Fbrd-FF69B4?style=social&logo=instagram"/></a> <a href="https://instagram.com/hampir_tolol"><img alt="Instagram" src="https://img.shields.io/badge/%40hampir%5Ftolol-FF69B4?style=social&logo=instagram"/></a> <a href="https://instagram.com/hampir_tolol"><img alt="Instagram" src="https://img.shields.io/badge/%40ramadan%5F0101-FF69B4?style=social&logo=instagram"/></a>
+</p>
+<br>
+<br>
+<p align="center">
+<b>Thanks broh</b>
+</p>
