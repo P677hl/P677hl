@@ -16,7 +16,6 @@
 *<a href="https://instagram.com/prayoga_brd"><img alt="@prayoga_brd" src="https://img.shields.io/badge/%40prayoga%5Fbrd-FF69B4?style=social&logo=instagram"/></a><br>
 <br>
 <b>Partner</b><br>
-<br>
 *<a href="https://instagram.com/hampir_tolol/"><img alt="@hampir_tolol" src="https://img.shields.io/badge/%40hampir%5Ftolol-FF69B4?style=social&logo=instagram"/></a>
 *<a href="https://instagram.com/ramadan_0101/"><img alt="@ramadan_0101" src="https://img.shields.io/badge/%40ramadan%5F0101-FF69B4?style=social&logo=instagram"/></a><br>
 *<a href="https://www.instagram.com/muhammadgz09/"><img alt="@muhammadgz09" src="https://img.shields.io/badge/%40muhammadgz09-FF69B4?style=social&logo=instagram"/></a>
