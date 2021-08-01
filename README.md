@@ -7,8 +7,8 @@
 </p>
 <h2> Sosial Media</h2>
 
-<!-- Sosial Media page -->
-<b>Support me!</b>
+<!-- Support Here page -->
+<b>Support Here!</b>
 <br>
 *<a href="https://desty.page/prayogabrd"><img alt="Desty" src="https://img.shields.io/badge/desty.page/-prayogabrd-white?style=social&logo=desty"/></a><br>
 *<a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg"><img alt="Youtube" src="https://img.shields.io/badge/PrayogaBRD-RED?style=social&logo=youtube"/></a><br>
