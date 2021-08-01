@@ -5,10 +5,10 @@
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/72582850?v=4" width="50%">
 </p>
-<h2> Sosial Media</h2>
+<h2> Support Here!</h2>
 
 <!-- Support Here page -->
-<b>Support Here!</b>
+<b>Support me!</b>
 <br>
 *<a href="https://desty.page/prayogabrd"><img alt="Desty" src="https://img.shields.io/badge/desty.page/-prayogabrd-white?style=social&logo=desty"/></a><br>
 *<a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg"><img alt="Youtube" src="https://img.shields.io/badge/PrayogaBRD-RED?style=social&logo=youtube"/></a><br>
