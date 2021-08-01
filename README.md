@@ -1,6 +1,4 @@
-*Ⓥ Verification Github*
-
-# SELAMAT DATANG BROH <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+# Welcome <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 
 <br>
 <!-- GitHub Profile [P677hl] -->
@@ -18,10 +16,13 @@
 *<a href="https://instagram.com/prayoga_brd"><img alt="@prayoga_brd" src="https://img.shields.io/badge/%40prayoga%5Fbrd-FF69B4?style=social&logo=instagram"/></a><br>
 <br>
 <b>Partner</b><br>
+<br>
 *<a href="https://instagram.com/hampir_tolol/"><img alt="@hampir_tolol" src="https://img.shields.io/badge/%40hampir%5Ftolol-FF69B4?style=social&logo=instagram"/></a><br>
 *<a href="https://instagram.com/ramadan_0101/"><img alt="@ramadan_0101" src="https://img.shields.io/badge/%40ramadan%5F0101-FF69B4?style=social&logo=instagram"/></a><br>
+*<a href="https://www.instagram.com/muhammadgz09/"><img alt="@muhammadgz09" src="https://img.shields.io/badge/%40muhammadgz09-FF69B4?style=social&logo=instagram"/></a><br>
+*<a href="https://www.instagram.com/hii_andikaaa/"><img alt="@hii_andikaaa" src="https://img.shields.io/badge/%40hii%5Fandikaaa-FF69B4?style=social&logo=instagram"/></a><br>
 <h2>Stats & languages<h2>
 
 <!-- Stats and languages [P677hl] -->
-<img src="https://camo.githubusercontent.com/771020a641b04b0f7f3d8c01fbc1fabb849a15fba6d24e9775c02fa57b1f56bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d50363737686c2673686f775f69636f6e733d7472756526686964653d636f6e74726962732c707273"/>
-<img src="https://camo.githubusercontent.com/1ae9c8fb6086d0e4d4838d9c552f01431b07944ccad9c47c450b5a6add7fabd2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50363737686c266c61796f75743d636f6d70616374" widht/>
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=P677hl&show_icons=true&theme=radical" alt="Prayogabrd" /></p><br>
+<p><img align="center" width=100% src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=P677hl&layout=compact&theme=radical" alt="Prayoga" /></p>
