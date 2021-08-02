@@ -23,5 +23,5 @@
 <h2>Stats & languages<h2>
 
 <!-- Stats and languages [P677hl] -->
-<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=P677hl&show_icons=true&theme=radical" alt="Prayogabrd" /></p>
-<p><img align="center" width=100% src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=P677hl&layout=compact&theme=radical" alt="Prayogabrd" /></p>
+<br><p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=P677hl&show_icons=true&theme=material-palenight" alt="Prayogabrd" /></p>
+<p><img align="center" width=100% src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=P677hl&layout=compact&theme=material-palenight" alt="Prayogabrd" /></p>
