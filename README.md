@@ -8,8 +8,7 @@
 <h2> Support Here!</h2>
 
 <!-- Support Here page -->
-<b>Support me!</b>
-<br>
+<b>Me</b><br>
 *<a href="https://desty.page/prayogabrd"><img alt="Desty" src="https://img.shields.io/badge/desty.page/-prayogabrd-white?style=social&logo=desty"/></a>
 *<a href="https://m.youtube.com/channel/UC9i_ITB0fJpvOcnHMMC9Ysg"><img alt="Youtube" src="https://img.shields.io/badge/PrayogaBRD-RED?style=social&logo=youtube"/></a>
 *<a href="https://github.com/P677hl"><img alt="Github" src="https://img.shields.io/badge/P677hl-INACTIVE?style=social&logo=github"/></a>
@@ -23,5 +22,6 @@
 <h2>Stats & languages<h2>
 
 <!-- Stats and languages [P677hl] -->
-<br><p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=P677hl&show_icons=true&theme=material-palenight" alt="Prayogabrd" /></p>
-<p><img align="center" width=100% src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=P677hl&layout=compact&theme=material-palenight" alt="Prayogabrd" /></p>
+<!-- Fixbug-Prayoga.app -->
+<p><img align="center" width=100% src="https://bit.ly/StatsP677hl" alt="Stats" /></p>
+<p><img align="center" width=100% src="https://bit.ly/LanguagesP677hl" alt="languages" /></p>
