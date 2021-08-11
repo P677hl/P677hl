@@ -7,6 +7,8 @@
 <b>Note: </b><i>I do not accept services for returning accounts that have been lost or hacked by other people</i>
 </p>
 <br><br>
-<a href="#"><img alt="Stats" src="https://bit.ly/StatsP677hl" width="100%" /></a>
+<h3>Activity: <img src="https://github.com/P677hl/P677hl.github.io/raw/Tools/.github/html.png" width="30px"> <img src="https://github.com/P677hl/P677hl.github.io/raw/Tools/.github/bash.png" width="30px"> <img src="https://github.com/P677hl/P677hl.github.io/raw/Tools/.github/php.png" width="30px"> <img src="https://github.com/P677hl/P677hl.github.io/raw/Tools/.github/python.png" width="30px"> <img src="https://github.com/P677hl/P677hl.github.io/raw/Tools/.github/javascript.png" width="30px"> </h3>
+
 <a href="#"><img alt="Languages" src="https://bit.ly/LanguagesP677hl" width="100%" /></a>
+<a href="#"><img alt="Stats" src="https://bit.ly/StatsP677hl" width="100%" /></a>
 <a href="#"><img alt="Languages" src="https://bit.ly/GraphP677hl" width="100%" /></a>
