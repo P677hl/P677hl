@@ -11,4 +11,5 @@
 
 <a href="#"><img alt="Languages" src="https://bit.ly/LanguagesP677hl" width="100%" /></a>
 <a href="#"><img alt="Stats" src="https://bit.ly/StatsP677hl" width="100%" /></a>
-<a href="#"><img alt="Languages" src="https://bit.ly/GraphP677hl" width="100%" /></a>
+<a href="#"><img alt="Graph" src="https://bit.ly/Graph2P677hl" width="100%" /></a>
+<a href="#"><img alt="streak" src="https://bit.ly/StreakP677hl" width="100%" /></a>
