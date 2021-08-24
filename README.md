@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/P677hl/P677hl.github.io/Tools/.github/Hi.gif" width="40px">, I'm [PrayogaBRD](https://P677hl.github.io)
+# Hi <img src="https://raw.githubusercontent.com/P677hl/P677hl.github.io/Tools/assets/gif/Hi.gif" width="40px">, I'm [PrayogaBRD](https://P677hl.github.io)
 <br>
 <!-- GitHub [P677hl] -->
 <p align="center">
